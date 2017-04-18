@@ -1,3 +1,12 @@
+.background-container{
+background-image: url('../assets/KH-image.jpg');
+background-size: cover;
+display: block;
+position: absolute;
+width: 100%;
+z-index: -1;
+}
+
 .pull-left {
   float: left;
 }
